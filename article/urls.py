@@ -1,6 +1,6 @@
 from django.contrib import admin
 from django.urls import path
-from .import views#şu anki klasörümüzdeki demelk nokta
+from .import views
 
 app_name="article"
 
